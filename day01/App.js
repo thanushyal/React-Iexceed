@@ -8,6 +8,7 @@ import Student from './component/clscompomulti';
 import Student1 from './component/classcmpodefprops';
 import Animal from './component/imageclasscompo';
 import Studentttt from './component/twocompo';
+import Para1 from './component/propssss';
 
 
 function App() {
@@ -49,6 +50,8 @@ function App() {
         rollno = "  54  "
         total = '450        '
         grade = "A " / >
+        <
+        Para1 name = "THANUSRI" / >
 
         <
         /header> < /
